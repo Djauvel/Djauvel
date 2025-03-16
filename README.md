@@ -1,15 +1,14 @@
-# Hello
+# 👋 Hi, I'm Peter Plass Jensen
 
-My name is Peter Plass Jensen. Welcome to my GitHub!
+Welcome to my GitHub profile! I'm a master's student in Manufacturing Technology at Aalborg University, following my bachelor's degree in Robotics (2024). 
 
-## About Me
+## 🔧 Skills & Technologies
+- **Programming Languages:** Python, C++, Java
+- **Technologies & Tools:** Docker, Linux, Streamlit, dbt, Snowflake, TensorFlow, OpenCV, Scikit-learn, ROS
+- **Fields of Interest:** AI, automation, robotics, video game development
 
-- 🌱 I'm currently studying in the Manufacturing Technology Masters program at Aalborg University in Denmark, following my bachelor's degree in robotics from the summer of 2024.
-- 💡 I'm interested in AI, automation, robotics, video game development, and programming projects in general.
-- 📫 How to reach me: PPlassJ@hotmail.com
+## 📫 Get in Touch
+- 📧 Email: PPlassJ@hotmail.com
+- 🔗 [LinkedIn]((https://www.linkedin.com/in/peter-plass-jensen-165441259/))
 
-## Skills
-
-- Programming Languages: Python, C++.
-
-Feel free to explore my repositories and reach out to collaborate! 🚀
+Feel free to explore my repositories, contribute, or reach out—I'm always open to collaboration! 🚀
