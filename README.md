@@ -9,6 +9,6 @@ Welcome to my GitHub profile! I'm a master's student in Manufacturing Technology
 
 ## 📫 Get in Touch
 - 📧 Email: PPlassJ@hotmail.com
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/peter-plass-jensen-165441259/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/peter-plass-jensen-165441259/)
 
 Feel free to explore my repositories, contribute, or reach out—I'm always open to collaboration! 🚀
